@@ -106,7 +106,6 @@ def perform_action(command):
     return None
 
 
-
 def ask_llm(prompt):
     try:
         # Generate response using Gemini
